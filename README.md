@@ -1,2 +1,1 @@
-# GAME2005-F2019-Lab05
-Lab05 From Game Physics
+# GAME3001 - S2019 - Lesson 6 - Repo for Pathfinding
